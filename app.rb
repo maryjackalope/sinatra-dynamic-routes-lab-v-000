@@ -44,4 +44,3 @@ get '/reversename/:name' do
     end
   end
  end
-end
